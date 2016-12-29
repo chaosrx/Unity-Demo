@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/2D Background Assets/Example Scenes/Sky_Sunset_Sea.unity
+  isLoaded: 1
+  isActive: 1
